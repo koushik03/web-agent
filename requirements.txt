@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langgraph
+crawl4ai
+huggingface_hub
+openai
