@@ -1,0 +1,7 @@
+# Ignore the local model directory
+Nemotron-3-Nano-30B-NVFP4/
+
+# Standard Python ignores
+__pycache__/
+*.pyc
+.env
